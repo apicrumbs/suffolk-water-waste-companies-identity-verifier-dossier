@@ -1,5 +1,5 @@
 # 🏛️ ApiCrumbs Archive: SUFFOLK-WATER-WASTE-COMPANIES-IDENTITY-VERIFIER-DOSSIER
-![Last Sync](https://shields.io/badge/Synchronised-2026--05--05-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/102_UPDATED-emerald?style=for-the-badge)
+![Last Sync](https://shields.io/badge/Synchronised-2026--05--07-blue?style=for-the-badge) ![Status](https://shields.io/badge/STATIC_SNAPSHOT-orange?style=for-the-badge) ![Delta](https://img.shields.io/badge/102_UPDATED-emerald?style=for-the-badge)
 
 📦 **Books in Shard:** 102 | 🛡️ **Tier:** PUBLIC_SNAPSHOT
 ⚡ **Latest Press Run:** 102 printed / 561 skipped (up-to-date).
